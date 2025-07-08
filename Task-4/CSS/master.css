@@ -1,0 +1,124 @@
+.Intro {
+    color: cyan;
+    background-color: grey;
+    font-size: 40px;
+    font-weight: bold;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 100% 100%;
+
+    border: 10px solid darkviolet;
+
+}
+
+.assign-2-shape-1 {
+    color: white;
+    height: 400px;
+    width: 400px;
+
+    background-image: url(Images/css-assignment-5-8.jpg);
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+.assign-2-shape-2 {
+    color: white;
+    height: 400px;
+    width: 400px;
+
+    background-image: url(Images/css-assignment-5-8.jpg);
+    background-repeat: repeat-y;
+    margin: auto;
+}
+
+.assign-2-shape-3 {
+    color: white;
+    height: 400px;
+    width: 400px;
+
+    background-image: url(Images/css-assignment-5-8.jpg);
+    background-repeat: repeat-x;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.assign-2-shape-4 {
+    color: white;
+    height: 400px;
+    width: 400px;
+
+    background-image: url(Images/css-assignment-5-8.jpg);
+    background-repeat: repeat;
+    margin: auto;
+}
+
+.element-1 {
+    font-size: 40px;
+    width: 400px;
+    text-align: center;
+    background-color: #bbbbbb;
+    border-left: 6px solid rgb(233, 30, 99);
+    outline: auto;
+    outline-style: solid;
+    outline-color: #bbbbbb;
+    display: block;
+    margin: auto;
+}
+
+.element-2 {
+    font-size: 40px;
+    width: 400px;
+    text-align: center;
+    background-color: #bbbbbb;
+    border-left: 6px solid rgb(233, 30, 99);
+    outline: auto;
+    outline-style: solid;
+    outline-color: #bbbbbb;
+    display: block;
+    visibility: hidden;
+    margin: auto;
+}
+
+.element-3 {
+    font-size: 40px;
+    width: 400px;
+    text-align: center;
+    background-color: #bbbbbb;
+    border-left: 6px solid rgb(0, 150, 136);
+    outline: auto;
+    outline-style: solid;
+    outline-color: #bbbbbb;
+    display: block;
+    margin: auto;
+}
+
+.title-one {
+    height: fit-content;
+    width: fit-content;
+}
+.title-two {
+    height: fit-content;
+    width: fit-content;
+}
+.title-three {
+    height: fit-content;
+    width: fit-content;
+}
+.title-four {
+    width: fit-content;
+    max-height: 110px;
+    overflow: hidden;
+}
+
+.title-one,
+.title-two,
+.title-three,
+.title-four {
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px 0px;
+    background-color: red;
+    display: block;
+}

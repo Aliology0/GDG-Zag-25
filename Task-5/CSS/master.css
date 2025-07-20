@@ -1,0 +1,18 @@
+.Intro {
+    color: cyan;
+    background-color: grey;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    background-position: 50% 50%;
+    background-size: 100% 100%;
+
+    border: 10px solid darkviolet;
+}
+
+.LINKS {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: capitalize;
+}

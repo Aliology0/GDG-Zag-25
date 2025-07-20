@@ -1,0 +1,132 @@
+.Intro {
+    color: rgb(3, 169, 244);
+    background-color: grey;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    background-position: 50% 50%;
+    background-size: 100% 100%;
+
+    border: 10px solid darkviolet;
+}
+
+.Main-Menu {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: capitalize;
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+}
+
+/* === Colored Boxes - Correct Stacking === */
+.red,
+.green,
+.blue,
+.black {
+    position: absolute;
+}
+
+/* Stacking order using z-index */
+.red {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    z-index: 4;
+    top: 190px;
+    left: 60px;
+}
+
+.green {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    z-index: 3;
+    top: 170px;
+    left: 40px;
+}
+
+.blue {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    z-index: 1;
+    top: 140px;
+    left: 20px;
+}
+
+.black {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    z-index: 2;
+    bottom: 0;
+}
+
+
+.Center {
+    position: relative;
+    width: 600px;
+    margin: 200px auto 30px auto;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border: 2px solid #333;
+    line-height: 1.6;
+}
+
+.Center span {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    background-color: blue;
+    color: #fff;
+    text-align: center;
+    line-height: 25px;
+    font-size: 14px;
+    border-radius: 50%;
+}
+
+.top-left {
+    top: -12px;
+    left: -12px;
+}
+
+.bottom-left {
+    bottom: -12px;
+    left: -12px;
+}
+
+.top-right {
+    top: -12px;
+    right: -12px;
+}
+
+.bottom-right {
+    bottom: -12px;
+    right: -12px;
+}
+
+ul {
+    width: 400px;
+    margin: 0 auto 30px auto;
+    background-color: #fafafa;
+    padding: 15px;
+    border: 1px solid #ccc;
+}
+
+.HTML {
+    margin-top: 5px;
+    margin-left: 20px;
+    list-style: decimal inside;
+}
+
+.CSS {
+    margin-top: 5px;
+    margin-left: 20px;
+    list-style: upper-roman inside;
+}
+
+ul ul {
+    list-style: circle;
+}

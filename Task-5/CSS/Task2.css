@@ -1,0 +1,52 @@
+.Intro {
+    color: cyan;
+    background-color: grey;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    background-position: 50% 50%;
+    background-size: 100% 100%;
+
+    border: 10px solid darkviolet;
+}
+
+.Main-Menu {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: capitalize;
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+}
+
+div {
+    text-align: center;
+    padding: 20px;
+    background-color: #eee;
+    font-size: 50px;
+}
+
+div p {
+    border: 2px solid;
+    border-color: inherit;
+    padding: inherit;
+    border: 2px solid blue;
+}
+
+.Font-1 {
+    font-family: "Open Sans";
+    font-weight: 300;
+    font-style: italic;
+}
+
+.Font-2 {
+    font-family: "Cairo";
+    font-weight: 700;
+
+}
+
+.Font-3 {
+    font-family: "Jomhuria";
+    font-weight: 400;
+}

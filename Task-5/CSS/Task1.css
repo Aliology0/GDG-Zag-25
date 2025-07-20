@@ -1,0 +1,49 @@
+.Intro {
+    color: cyan;
+    background-color: grey;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    background-position: 50% 50%;
+    background-size: 100% 100%;
+
+    border: 10px solid darkviolet;
+}
+
+.Main-Menu {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: capitalize;
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+}
+
+.Task-1-1 {
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px rgb(244, 67, 54), 2px 2px 1px rgb(28, 152, 248), 3px 3px 1px rgb(152, 42, 178);
+}
+
+.one {
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.two {
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.three {
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: lowercase;
+}

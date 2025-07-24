@@ -1,0 +1,55 @@
+.Intro {
+    color: cyan;
+    background-color: grey;
+    font-size: 40px;
+    font-weight: bold;
+    background-position: 50% 50%;
+    background-size: 100% 100%;
+    text-align: center;
+
+    border: 10px solid darkviolet;
+}
+
+.one,
+.two,
+.three {
+    width: 300px;
+    height: 60px;
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    top: 225px;
+    left: 37.5%;
+}
+
+.two {
+    background-color: red;
+}
+
+.Welcome {
+    background-color: #eee;
+    font-size: 30px;
+    width: 800px;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    direction: ltr;
+    position: relative;
+    top: -200px;
+}
+
+.Welcome::before {
+    content: "1";
+    background-color: red;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70px;
+    height: 100%;
+    padding: 20px;
+    margin-right: 20px;
+}

@@ -1,2 +1,26 @@
 GDG Front-End Tasks
 By/ Ali Emad
+<img width="1274" height="647" alt="Finish" src="https://github.com/user-attachments/assets/362f16ce-5287-4421-bfb9-2db3a154e8bf" />
+<img width="1275" height="627" alt="23" src="https://github.com/user-attachments/assets/6703b4de-ba3f-4ade-b758-4a1a8e6d4702" />
+<img width="1270" height="638" alt="22" src="https://github.com/user-attachments/assets/7a7cb536-d469-4ae8-9651-de7a754f908b" />
+<img width="1279" height="626" alt="21" src="https://github.com/user-attachments/assets/788383ec-ac6d-46f2-ab1e-01ded2250e11" />
+<img width="1277" height="636" alt="20" src="https://github.com/user-attachments/assets/f0ca181f-9f46-4ba7-99f6-ca831b3e8fbd" />
+<img width="1277" height="638" alt="19" src="https://github.com/user-attachments/assets/2d16024d-f186-4579-b9d0-3c3c6c94a253" />
+<img width="1277" height="628" alt="18" src="https://github.com/user-attachments/assets/6bc56668-5781-4bd6-b898-4db44bb3f04e" />
+<img width="1275" height="629" alt="17" src="https://github.com/user-attachments/assets/1df55ac5-5ba2-4303-be95-dd29ba75183c" />
+<img width="1275" height="631" alt="16" src="https://github.com/user-attachments/assets/8486f7e0-5ff1-45f7-ba51-3bbd2d06b6ea" />
+<img width="1278" height="632" alt="15" src="https://github.com/user-attachments/assets/4edbe853-bc1b-4454-a969-bfe926f3612c" />
+<img width="1278" height="633" alt="14" src="https://github.com/user-attachments/assets/de393c5f-5ab5-4fa1-bb8c-d49cf3ff7077" />
+<img width="1275" height="635" alt="13" src="https://github.com/user-attachments/assets/d14b3187-7543-44da-b444-0fc3522828e2" />
+<img width="1269" height="627" alt="12" src="https://github.com/user-attachments/assets/2e782a1e-abf7-4cf7-b408-790364039c63" />
+<img width="1270" height="625" alt="11" src="https://github.com/user-attachments/assets/c944e5a1-1d70-462b-90cb-ddd93af611c2" />
+<img width="1268" height="628" alt="10" src="https://github.com/user-attachments/assets/211a1f5e-0bcc-4d17-a9e8-c10f40c08685" />
+<img width="1279" height="633" alt="9" src="https://github.com/user-attachments/assets/b483a105-91db-4820-b005-759f9fdc7698" />
+<img width="1272" height="632" alt="8" src="https://github.com/user-attachments/assets/6f081e20-5862-4ae0-b8ce-acbb6b1207c9" />
+<img width="1271" height="638" alt="7" src="https://github.com/user-attachments/assets/61ce5828-f84c-418a-ac2a-496271c9d87d" />
+<img width="1273" height="639" alt="6" src="https://github.com/user-attachments/assets/5b8a9138-25a8-4d70-a9d4-b7f750bf3205" />
+<img width="1269" height="624" alt="5" src="https://github.com/user-attachments/assets/890c5971-13db-4de1-b9f2-b956f910fc38" />
+<img width="1272" height="637" alt="4" src="https://github.com/user-attachments/assets/9f2e3623-5db2-4cb8-8d35-47b1682ce1cf" />
+<img width="1259" height="623" alt="3" src="https://github.com/user-attachments/assets/314ef9d8-2a02-427f-82d7-ac5d2287821e" />
+<img width="1267" height="625" alt="2" src="https://github.com/user-attachments/assets/3bc2dcd0-2877-4e9c-ac70-c884bfe762b2" />
+<img width="1268" height="639" alt="1" src="https://github.com/user-attachments/assets/2955f66b-8faf-41df-98fa-152d4256c1b3" />

@@ -24,3 +24,8 @@ By/ Ali Emad
 <img width="1259" height="623" alt="3" src="https://github.com/user-attachments/assets/314ef9d8-2a02-427f-82d7-ac5d2287821e" />
 <img width="1267" height="625" alt="2" src="https://github.com/user-attachments/assets/3bc2dcd0-2877-4e9c-ac70-c884bfe762b2" />
 <img width="1268" height="639" alt="1" src="https://github.com/user-attachments/assets/2955f66b-8faf-41df-98fa-152d4256c1b3" />
+<img width="1263" height="662" alt="Screenshot_295" src="https://github.com/user-attachments/assets/d709aea9-e93f-4016-bf7a-06e40d186c2d" />
+<img width="1250" height="690" alt="Screenshot_294" src="https://github.com/user-attachments/assets/cb7a5742-6fc6-4ac7-b50a-ecd62ad0479a" />
+<img width="1261" height="687" alt="Screenshot_293" src="https://github.com/user-attachments/assets/daff5082-3882-4813-9bd6-20d4ba98ce99" />
+<img width="1246" height="652" alt="Screenshot_292" src="https://github.com/user-attachments/assets/0b67a12f-9603-4b6c-b315-a344cc959a94" />
+<img width="1254" height="669" alt="Screenshot_291" src="https://github.com/user-attachments/assets/95beeed0-e898-4d7f-a366-b08f6073e5a0" />

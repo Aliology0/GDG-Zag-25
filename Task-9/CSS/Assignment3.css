@@ -1,0 +1,13 @@
+.assign-one {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+}
+
+@media print {
+    .assign-one {
+        font-size: 40px;
+
+    }
+}
